@@ -22,3 +22,10 @@ Figma Design - https://www.figma.com/file/w7wN1934wsRWZAMhPU0IEX/100x-microblogg
 Designs will be reviewed for visual appeal, layout sensibility, and responsive design principles.
 
 ---
+## Assignment Submission
+
+- **Login Screens:** - https://100x-engineers.github.io/layouts-assignment-anujaagarwal/src/layouts/login
+
+- **Home Feed & Compose Tweet:** - https://100x-engineers.github.io/layouts-assignment-anujaagarwal/src/layouts/home-feed
+
+- **User Profile:** - https://100x-engineers.github.io/layouts-assignment-anujaagarwal/src/layouts/user-profile
